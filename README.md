@@ -44,7 +44,7 @@ Remote Play Launcher helps bridge that gap by making it easy to:
 
 ## 📦 Installation
 
-1. Download the latest **RemotePlayLauncher.exe** from the **Releases** page.  
+1. Download the latest **RemotePlayLauncher.exe** from the [Releases](https://github.com/goxome/RemotePlayLauncher/releases) page.
 2. Install any game on Steam that supports **Remote Play Together**.  
 3. Navigate to the folder where the Steam game is installed and locate its main game’s `.exe`.  
 4. Copy **RemotePlayLauncher.exe** into the same folder as the game’s main executable.  
